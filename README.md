@@ -35,7 +35,19 @@ A population size of 500 and a maximum number of generations without improvement
 
 ## Plot example
 here an example of the vanuatu dataset TSP calculated with the simulated annealing and GA approach (same result)  
-![alt text](image.png)
+![alt text](image.png)  
+
+these are the plots for the final iteration of the GA, in the ipynb i've lounched and stopped a new generation in order to be rendered in the git preview,Otherwise, it would have been too heavy and impossible to open.  
+ITALY  
+![alt text](image-1.png)  
+RUSSIA  
+![alt text](image-2.png)  
+US  
+![alt text](image-3.png)  
+CHINA  
+![alt text](image-4.png)  
+
+
 ## Conclusion
 Among the greedy approaches, the one that works on edges achieved better results on almost all instances compared to the one that works on nodes, but with a significantly higher number of steps to reach the solution.
 
